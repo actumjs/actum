@@ -1,0 +1,22 @@
+{
+  "name": "@actumjs/actum",
+  "version": "1.0.0",
+  "description": "A library to manage application state of the javascript app.",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "actumjs",
+  "license": "(MIT)",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
