@@ -1,6 +1,6 @@
 {
   "name": "@actumjs/actum",
-  "version": "1.0.1",
+  "version": "1.0.1", 
   "description": "A library to manage application state of the javascript app.",
   "main": "dist/main.js",
   "scripts": {
