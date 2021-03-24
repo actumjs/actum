@@ -4,7 +4,7 @@ module.exports = {
   mode:'production',
   output: {
     filename: 'main.js',
-    library:'purple_project',
+    library:'actum',
     libraryTarget:'umd',
     globalObject: "this",
     path: path.resolve(__dirname, 'dist'),
